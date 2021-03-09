@@ -24,7 +24,8 @@
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*
@@ -159,4 +160,8 @@ dist
 # Stores VSCode versions used for testing VSCode extensions
 .vscode-test
 
+password.txt
+
 # End of https://www.toptal.com/developers/gitignore/api/macos,linux,node
+
+
